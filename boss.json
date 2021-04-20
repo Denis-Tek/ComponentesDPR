@@ -1,10 +1,9 @@
-  
 {
-	"name": "Componentes DPR",
-	"description": "Componentes Desenvolvidos por Denis Pereira Raymundo",
+	"name": "ComponentesDPR",
+	"description": "Componentes desenvolvidos por Denis Pereira Raymundo",
 	"version": "1.0.0",
-	"homepage": "",
-	"mainsrc": "/",
+	"homepage": "https://github.com/Denis-Tek/ComponentesDPR/tree/main",
+	"mainsrc": "./",
 	"projects": [],
 	"dependencies": {}
 }
