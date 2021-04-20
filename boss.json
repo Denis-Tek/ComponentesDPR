@@ -4,6 +4,7 @@
 	"version": "1.0.0",
 	"homepage": "https://github.com/Denis-Tek/ComponentesDPR/tree/main",
 	"mainsrc": "./",
-	"projects": [],
+	"projects": [
+		"CompDPR.dproj"],
 	"dependencies": {}
 }
