@@ -3,12 +3,12 @@
 	<Transactions>
     <Transaction>2021/04/19 15:35:33.000.155,=rtl.dcp</Transaction>
     <Transaction>2021/04/19 15:36:03.000.908,=C:\ComponentesDPR\ComponentesDPR.pas</Transaction>
-    <Transaction>2021/04/19 15:37:07.000.233,C:\ComponentesDPR\CompDPR.dproj=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2021/04/19 15:37:07.000.233,C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\ComponentesDPR\CompDPR.dproj</Transaction>
+    <Transaction>2021/04/19 16:23:39.000.637,=dsnap.dcp</Transaction>
     <Transaction>2021/04/19 16:23:39.000.465,=vcl.dcp</Transaction>
     <Transaction>2021/04/19 16:23:39.000.559,=dbrtl.dcp</Transaction>
-    <Transaction>2021/04/19 16:23:39.000.794,=JvStdCtrls.dcp</Transaction>
     <Transaction>2021/04/19 16:23:39.000.685,=Jcl.dcp</Transaction>
-    <Transaction>2021/04/19 16:23:39.000.637,=dsnap.dcp</Transaction>
+    <Transaction>2021/04/19 16:23:39.000.794,=JvStdCtrls.dcp</Transaction>
     <Transaction>2021/04/19 16:23:39.000.434,=vclimg.dcp</Transaction>
     <Transaction>2021/04/19 16:23:39.000.497,=vclwinx.dcp</Transaction>
     <Transaction>2021/04/19 16:23:39.000.825,=JvMM.dcp</Transaction>
