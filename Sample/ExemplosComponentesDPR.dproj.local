@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/26 17:10:59.000.696,=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/19 15:34:15.000.584,=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/19 16:10:29.000.537,=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/20 15:08:36.000.638,=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/20 15:10:21.000.938,=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/20 15:11:54.047,=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/20 15:37:04.618,C:\ComponentesDPR\Sample\Unit1.pas=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/20 15:37:04.618,C:\ComponentesDPR\Sample\Unit1.dfm=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/04/20 15:37:23.290,C:\ComponentesDPR\Sample\ExemplosComponentesDPR.dproj=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
