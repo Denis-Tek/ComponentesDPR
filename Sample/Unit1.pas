@@ -74,7 +74,7 @@ begin
 
   Pesquisa1.DataSet := ClientDataSet1;
   Pesquisa1.Campo   := 'Company';
-  Pesquisa1.Titulo  := 'Pesquisar pelo nome da companhia';
+  Pesquisa1.Titulo  := 'Nome da companhia';
 
   DataSetParaCSV1.DataSet := ClientDataSet1;
   DataSetParaCSV1.ArquivoBase := ExtractFilePath(ParamStr(0)) + 'Customer.csv';

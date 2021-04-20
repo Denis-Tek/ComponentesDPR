@@ -27,7 +27,6 @@ object Form1: TForm1
     ReadOnly = True
     TabOrder = 0
     Autor = 'Denis Pereira Raymundo'
-    ExplicitHeight = 470
   end
   object IndicadorDPR1: TIndicadorDPR
     Left = 0
@@ -56,9 +55,6 @@ object Form1: TForm1
     ExibirValorAtual = False
     Gradient = True
     Align = alBottom
-    ExplicitLeft = 167
-    ExplicitTop = 184
-    ExplicitWidth = 400
     DesignSize = (
       755
       34)

@@ -6,9 +6,9 @@
     <Transaction>2021/04/19 16:10:29.000.537,=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2021/04/20 15:08:36.000.638,=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2021/04/20 15:10:21.000.938,=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/04/20 15:11:54.047,=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/04/20 15:37:04.618,C:\ComponentesDPR\Sample\Unit1.pas=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/04/20 15:37:04.618,C:\ComponentesDPR\Sample\Unit1.dfm=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2021/04/20 15:37:23.290,C:\ComponentesDPR\Sample\ExemplosComponentesDPR.dproj=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/04/20 15:11:54.000.047,=C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/20 15:37:04.000.618,C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\ComponentesDPR\Sample\Unit1.dfm</Transaction>
+    <Transaction>2021/04/20 15:37:04.000.618,C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\ComponentesDPR\Sample\Unit1.pas</Transaction>
+    <Transaction>2021/04/20 15:37:23.000.290,C:\Users\Desenv-Java\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\ComponentesDPR\Sample\ExemplosComponentesDPR.dproj</Transaction>
   </Transactions>
 </BorlandProject>
