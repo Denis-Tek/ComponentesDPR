@@ -4,7 +4,11 @@ Componentes para Delphi desenvolvidos por mim:
 Instalação usando o [`boss`](https://github.com/HashLoad/boss):
 
 ``` sh
+# Instalação em um projeto. Execute estando dentro da pasta do projeto.
 boss install https://github.com/Denis-Tek/ComponentesDPR
+
+# Instalação global
+boss install --global https://github.com/Denis-Tek/ComponentesDPR
 ```
 - TPesquisa - Permite realizar pesquisa incrementais em TDataSet
 - TGridParaHTML - Permite converter dados de uma DBGrid para HTML
